@@ -1,4 +1,5 @@
 # racket
-Scheme/racket practice, school projects
+
+Little Scheme/racket programs - school projects/practice
 
 Each file should have a short program description
